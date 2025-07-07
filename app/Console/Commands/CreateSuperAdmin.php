@@ -1,6 +1,5 @@
 <?php
 namespace App\Console\Commands;
-
 use App\Actions\Fortify\PasswordValidationRules;
 use App\Models\User;
 use Illuminate\Console\Command;
