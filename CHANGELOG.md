@@ -2,7 +2,6 @@
 
 ## [Unreleased](https://github.com/laravel/laravel/compare/v8.6.5...8.x)
 
-
 ## [v8.6.5 (2021-10-26)](https://github.com/laravel/laravel/compare/v8.6.4...v8.6.5)
 
 ### Changed
